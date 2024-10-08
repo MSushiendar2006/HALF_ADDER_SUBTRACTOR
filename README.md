@@ -37,7 +37,7 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-**Truthtable**
+
 
 **Procedure**
 
@@ -76,7 +76,7 @@ assign borrow=(~a&b);
 endmodule
 ```
 
-Truth Table:
+**Truth Table:**
 Half Adder:
 
 ![image](https://github.com/user-attachments/assets/47bef441-08fa-4bbb-b428-3cb2846fd200)
