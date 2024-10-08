@@ -77,8 +77,10 @@ endmodule
 ```
 
 Truth Table:
+
 Half Adder:
 ![image](https://github.com/user-attachments/assets/47bef441-08fa-4bbb-b428-3cb2846fd200)
+
 
 Half Subractor:
 ![image](https://github.com/user-attachments/assets/e6f677b1-e345-4970-8380-0e8208cf4a4b)
