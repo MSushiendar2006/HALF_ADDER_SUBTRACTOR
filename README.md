@@ -97,7 +97,14 @@ Half Subractor:
 
 
 ## Output:
+
+Half Adder:
+
+
 ![Screenshot 2024-09-20 085314](https://github.com/user-attachments/assets/0ca55586-1855-4eb8-a6d0-28c369bad77d)
+
+Half Subractor:
+
 
 ![Screenshot 2024-09-20 091014](https://github.com/user-attachments/assets/5e752d8b-963a-4ba4-a6ce-390bd2c61cc2)
 
