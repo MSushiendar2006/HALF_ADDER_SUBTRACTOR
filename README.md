@@ -85,7 +85,14 @@ Half Subractor:
 
 ## RTL:
 
+Half Adder:
+
+
 ![Screenshot 2024-09-20 085056](https://github.com/user-attachments/assets/468b61be-8807-4261-b94d-3878abdb4a88)
+
+Half Subractor:
+
+
 ![Screenshot 2024-09-20 090920](https://github.com/user-attachments/assets/32adfee6-f96e-4c40-a3ae-6578645fa9c6)
 
 
