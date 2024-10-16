@@ -2,18 +2,16 @@
 Developed by: Sushiendar M
 RegisterNumber:212223040217
 ```
-# HALF_ADDER_SUBTRACTOR
+## HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
-**AIM:**
+## AIM:
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
-**Equipments Required:**
-
+## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher 
-
 Software – Quartus prime Theory Adders are digital circuits that carry out the addition of numbers.
 
 **Half Adder**
@@ -39,23 +37,16 @@ Figure -02 HALF Subtractor
 
 
 
-**Procedure**
-
+## Procedure:
 1.	Type the program in Quartus software.
-
 2.	Compile and run the program.
-
 3.	Generate the RTL schematic and save the logic diagram.
-
 4.	Create nodes for inputs and outputs to generate the timing diagram.
-
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
-
+## Program:
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-
 
 ## Half Adder
 ```
@@ -76,26 +67,23 @@ assign borrow=(~a&b);
 endmodule
 ```
 
-**Truth Table:**
+## Truth Table:
 
 Half Adder:
-
 ![image](https://github.com/user-attachments/assets/47bef441-08fa-4bbb-b428-3cb2846fd200)
 
 
 Half Subractor:
-
 ![image](https://github.com/user-attachments/assets/e6f677b1-e345-4970-8380-0e8208cf4a4b)
 
 
-
-## RTL Schematic
+## RTL:
 
 ![Screenshot 2024-09-20 085056](https://github.com/user-attachments/assets/468b61be-8807-4261-b94d-3878abdb4a88)
 ![Screenshot 2024-09-20 090920](https://github.com/user-attachments/assets/32adfee6-f96e-4c40-a3ae-6578645fa9c6)
 
 
-## Output/TIMING Waveform
+## Output:
 ![Screenshot 2024-09-20 085314](https://github.com/user-attachments/assets/0ca55586-1855-4eb8-a6d0-28c369bad77d)
 
 ![Screenshot 2024-09-20 091014](https://github.com/user-attachments/assets/5e752d8b-963a-4ba4-a6ce-390bd2c61cc2)
